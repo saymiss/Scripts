@@ -1,6 +1,6 @@
 # QuantumultX网易云音乐版权解锁
 第一步、下载CA证书，前往“设置-通用-描述文件”，安装「UnblockNeteaseMusic Root CA」，然后在“设置-通用-关于本机-证书信任设置”处开启对「UnblockNeteaseMusic Root CA」的信任。
-# CA证书：https://github.com/nondanee/UnblockNeteaseMusic/raw/master/ca.crt
+CA证书：https://github.com/nondanee/UnblockNeteaseMusic/raw/master/ca.crt
 
 第二步、添加网易云音乐策略组，分流订阅，以及解锁所需的节点。
 # 策略组
