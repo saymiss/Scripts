@@ -18,6 +18,13 @@ Quantumult X 用户配置BoxJs改为使用http backend方式，访问地址改�
 
 BoxJs配置使用说明: https://chavyleung.gitbook.io/boxjs/#quanx
 
+# QuantumultX SSID设置
+用翻墙路由器的可以设置一下SSID，无的话直接无视就行，毕竟用不上
+[general]
+# 第一个filter为4g模式开启规则分流，第二个filter为其他wifi下开启规则分流，第三个wifi1修改成你路由器翻墙的wifi名开启直连模式，第四个wifi2为你需要全局代理的wifi名（这个一般不需要随便写就行）
+# 默认关闭根据wifi切换模式，如需开启，删除下方的“#”即可！
+# running_mode_trigger=filter, filter, 你家wifi名:all_direct, 你家wifi名:all_direct, 你家wifi名2: all_proxy
+
 # Task脚本库整理：
 为大家整理好的大佬们的 Task脚本仓库 方便大家使用
 
