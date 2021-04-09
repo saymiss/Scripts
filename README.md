@@ -9,7 +9,7 @@ static=网易云音乐, resource-tag-regex=网易云音乐解锁, img-url=https:
 
 # 远程分流规则订阅
 [filter_remote]
-https://github.com/GlitterZero/QuantumultX/blob/NeteaseMusic/NeteaseMusic.list, tag=解锁网易云音乐, force-policy=网易云音乐, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/GlitterZero/QuantumultX/NeteaseMusic/NeteaseMusic.list, tag=解锁网易云音乐, force-policy=网易云音乐, update-interval=86400, opt-parser=true, enabled=true
 
 # 服务器引用（机场订阅）
 [server_remote]
