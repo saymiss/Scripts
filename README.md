@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/GlitterZero/QuantumultX/main/Zero.conf
 新导入配置的用户，添加机场订阅之后，开启全局模式更新配置内容
 
 # 策略、分流及重写：
-引用神机分流规则/Nobyda的去广告分流、脚本重写
+引用神机分流规则/Nobyda的去广告分流、脚本重写订阅
 
 # BoxJS httpbackend配置
 
