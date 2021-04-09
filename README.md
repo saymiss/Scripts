@@ -1,5 +1,5 @@
 
-Quantumult X_Zero入门配置：https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Quantumult%20X/QuantumultX_Zero.conf
+Quantumult X_Zero入门配置：https://raw.githubusercontent.com/GlitterZero/QuantumultX/main/Zero.conf
 
 新导入配置的用户，添加机场订阅之后，开启全局模式更新配置内容
 
