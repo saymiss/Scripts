@@ -14,14 +14,23 @@ Final清单：不在规则中的剩余请求，按照自己的需求选择direct
 ✍🏻 Cookie获取重写订阅：引用少年歌行整理的 获取Cookie 重写订阅，并保留对应Task脚本的Cookie重写订阅
 
 ✍🏻 Task脚本库：为大家整理好的大佬们的 Task脚本仓库 方便大家使用
+
 ♻️ Ease整理羊毛合集：https://gitee.com/ydj0602/hym/raw/master/Ease1.json
+
 ♻️ 锄禾整理合集：https://dove.589669.xyz/task2qxgallery?sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule&img=1
+
 ♻️ 少年歌行合集：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
+
 ♻️ 少年歌行整理肥皂羊毛合集：https://raw.githubusercontent.com/sngxpro/QuanX/master/task/age174.json
+
 ♻️ HotKids：https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/TaskGallery.json
+
 ♻️ blackmatrix7: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json
+
 ♻️ lxk 大佬京东合集：https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301_gallery.json
+
 ♻️ Peng-YM：https://gist.githubusercontent.com/Peng-YM/cc2cd6205b305d36544a44ec77129832/raw/gallery.json
+
 ♻️ HuiDoY自用薅羊毛脚本收集（cookie获取在附件）：https://raw.githubusercontent.com/HuiDoY/QX_Task/main/H.json
 
 只为了方便大家使用Task脚本，不定期补充，脚本需求的Cookie 重写，请自行解决
