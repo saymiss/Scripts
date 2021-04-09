@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/GlitterZero/QuantumultX/main/Zero.conf
 [http_backend]
 https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js, tag=BoxJs, path=^/, enabled=true
 
-Quantumult X 用户配置BoxJs改为使用http backend方式，访问地址改为http://127.0.0.1:9999，更新配置后请长按风车-更新，然后重启代理之后再开启backend开关
+Quantumult X 用户配置BoxJs改为使用http backend方式，访问地址改为http://127.0.0.1:9999 ，更新配置后请长按风车-更新，然后重启代理之后再开启backend开关
 
 BoxJs配置使用说明: https://chavyleung.gitbook.io/boxjs/#quanx
 
