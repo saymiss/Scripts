@@ -11,6 +11,6 @@ static=网易云音乐, resource-tag-regex=网易云音乐解锁, img-url=https:
 [filter_remote]
 https://raw.githubusercontent.com/GlitterZero/QuantumultX/NeteaseMusic/NeteaseMusic.list, tag=解锁网易云音乐, force-policy=网易云音乐, update-interval=86400, opt-parser=true, enabled=true
 
-# 服务器引用（机场订阅）
+# 服务器引用（节点订阅）
 [server_remote]
 https://raw.githubusercontent.com/GlitterZero/QuantumultX/NeteaseMusic/NeteaseMusic_jd.txt, tag=网易云音乐解锁节点, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png, update-interval=86400, opt-parser=true, enabled=true
