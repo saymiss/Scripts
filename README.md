@@ -1,5 +1,5 @@
 
-Quantumult X_Zero入门配置：https://raw.githubusercontent.com/GlitterZero/QuantumultX/main/Zero.conf
+#QuantumultX_Zero入门配置：https://raw.githubusercontent.com/GlitterZero/QuantumultX/main/Zero.conf
 
 新导入配置的用户，添加机场订阅之后，开启全局模式更新配置内容
 
@@ -36,5 +36,4 @@ BoxJs配置使用说明: https://chavyleung.gitbook.io/boxjs/#quanx
 
 只为了方便大家使用Task脚本，不定期补充，脚本需求的Cookie 重写，请自行解决
 
-✍🏻 策略组图标：引用契阔设计的策略图标
-mini图标聚合频道： @Orzmini
+✍🏻 策略组图标：引用契阔设计的策略图标-mini图标聚合频道：https://t.me/Orzmini
