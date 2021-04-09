@@ -13,4 +13,4 @@ https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Filter/NeteaseMus
 
 # 服务器引用（机场订阅）
 [server_remote]
-https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Quantumult%20X/wangyiyunjd.txt, tag=网易云音乐解锁节点, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/GlitterZero/QuantumultX/NeteaseMusic/NeteaseMusic_jd.txt, tag=网易云音乐解锁节点, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Netease.png, update-interval=86400, opt-parser=true, enabled=true
