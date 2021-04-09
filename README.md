@@ -6,6 +6,7 @@ Quantumult X_Zero入门配置：https://raw.githubusercontent.com/GlitterZero/Qu
 ✍🏻 策略、分流及重写：引用神机分流规则/Nobyda的去广告分流、脚本重写
 
 〽️BoxJS httpbackend配置
+
 [http_backend]
 https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js, tag=BoxJs, path=^/, enabled=true
 
