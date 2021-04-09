@@ -1,11 +1,13 @@
 
-QuantumultX_Zero入门配置：https://raw.githubusercontent.com/GlitterZero/QuantumultX/main/Zero.conf
+# QuantumultX_Zero入门配置：
+https://raw.githubusercontent.com/GlitterZero/QuantumultX/main/Zero.conf
 
 新导入配置的用户，添加机场订阅之后，开启全局模式更新配置内容
 
-✍🏻 策略、分流及重写：引用神机分流规则/Nobyda的去广告分流、脚本重写
+# 策略、分流及重写：
+引用神机分流规则/Nobyda的去广告分流、脚本重写
 
-〽️BoxJS httpbackend配置
+# BoxJS httpbackend配置
 
 [http_backend]
 https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js, tag=BoxJs, path=^/, enabled=true
@@ -14,7 +16,8 @@ Quantumult X 用户配置BoxJs改为使用http backend方式，访问地址改�
 
 BoxJs配置使用说明: https://chavyleung.gitbook.io/boxjs/#quanx
 
-✍🏻 Task脚本库：为大家整理好的大佬们的 Task脚本仓库 方便大家使用
+# Task脚本库整理：
+为大家整理好的大佬们的 Task脚本仓库 方便大家使用
 
 ♻️ Ease整理羊毛合集：https://gitee.com/ydj0602/hym/raw/master/Ease1.json
 
@@ -36,4 +39,4 @@ BoxJs配置使用说明: https://chavyleung.gitbook.io/boxjs/#quanx
 
 只为了方便大家使用Task脚本，不定期补充，脚本需求的Cookie 重写，请自行解决
 
-🌅 策略组图标：引用契阔设计的策略图标-mini图标聚合频道：https://t.me/Orzmini
+# 策略组图标：引用契阔设计的策略图标-mini图标聚合频道：https://t.me/Orzmini
